@@ -8,7 +8,7 @@ This project contains projects for the ***[Natural Language Processing Nanodegre
 ### Project 1: Part of Speech Tagging
 *Module: Part 1 - Introduction to Natural Language Processing*
 
-[Notebook](./Part1_Introduction_to_Natural_Language_Processing/Project_Part_of_Speech_Tagging/HMM+Tagger.ipynb)
+[Notebook](./Part1_Introduction_to_Natural_Language_Processing/Project_Part_of_Speech_Tagging/HMM_Tagger.ipynb)
 
 
 ### Project 2: Machine Translation
